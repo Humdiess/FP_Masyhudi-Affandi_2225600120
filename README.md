@@ -18,13 +18,9 @@
 - Lingkungan training: Google Collab
 - Model: yolov8s
 - Grafik: 
-![Hasil training](grafik/result.jpg)
-
-![Hasil training](grafik/result-dark.jpg)
-
+![Kurva Precision-Recall](grafik/BoxPR_curve.png)
 ![Confusion matrix](grafik/confusion_matrix.png)
 
-![Kurva Precision-Recall](grafik/BoxPR_curve.png)
 
 ## Pengembangan Kode
 Daftar perubahan terhadap kode dasar, beserta alasan dan pengaruhnya terhadap hasil:
