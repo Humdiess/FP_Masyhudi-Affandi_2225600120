@@ -24,6 +24,7 @@ runs.zip
 .env
 .env.*
 *.local
+*.mp4
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
@@ -37,3 +38,7 @@ runs.zip
 # OS files
 .DS_Store
 Thumbs.db
+
+# Demo files
+.demo/in/*
+.demo/out/*
